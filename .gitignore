@@ -2,6 +2,7 @@
 
 # Pycharm
 venv/
+.idea/
 
 #Third-Party Repository
 prml/
